@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 关于我们
 cms_exclude: true
 
 # View.
