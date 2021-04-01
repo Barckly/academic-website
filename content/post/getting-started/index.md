@@ -1,9 +1,10 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
+title: 团队成员
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: 张莉 负责人事、市场对接以及招生宣传
+                周鑫 负责数字平台建设、研学方案设计、志愿者培训方案设计和师资培训
+                曾聪聪 负责财务规划
+                吴紫寒 负责机构经营计划和投资方案，以及项目对接 
 
 # Link this post with a project
 projects: []
@@ -30,15 +31,15 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- 周鑫
 
 tags:
 - Academic
 - 开源
 
 categories:
-- Demo
-- 教程
+- 
+- 
 ---
 
 ## Overview

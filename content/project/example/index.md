@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: 项目介绍
+summary: 我们的项目设置有立足于本地的研学项目，走向全国的外地研学项目，以及培养小志愿者研学项目。
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

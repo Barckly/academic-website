@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 联系方式
 cms_exclude: true
 
 # View.
