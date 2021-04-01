@@ -16,13 +16,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
+# 研学项目
 研学项目:
 - 本地研学项目
 - 异地研学项目
 - 小志愿者培训项目
 
-# Education to show in About widget
+# 团队成员
 团队成员:
   courses:
   - course: 张莉 负责人事、市场对接以及招生宣传
@@ -67,6 +67,7 @@ highlight_name: false
 ---
 
 昕途教育文化培训机构是专门从事中小学生课外研学及相关项目开发、组织、实施的课外教育研学培训机构。其主要项目包括中小学生本地研学、异地研学、小志愿者培训、小志愿者活动组织策划等。
+
 本机构秉承“感受历史、文化育人”的发展理念，通过考察探究、数字体验、研究性学习、演讲培训和志愿者服务体验等丰富创新的学习方式，让中国的历史文化遗迹成为青少年实践学习的大课堂，让红色精神成为他们成长的动力！
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
