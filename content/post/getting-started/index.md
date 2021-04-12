@@ -1,7 +1,7 @@
 ---
 title: 团队成员
 # Summary for listings and search engines
-summary:我们的团队由4人组成，每人都有各自的闪光点，各司其职。
+summary: 我们的团队由4人组成，每人都有各自的闪光点，各司其职。
 
 # Link this post with a project
 projects: []
@@ -38,6 +38,9 @@ categories:
 - 
 - 
 ---
+
+
+
 
 ## 成员介绍
 
