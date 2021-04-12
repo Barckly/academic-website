@@ -30,7 +30,9 @@ publication: In *XinTuEDU*
 publication_short: In *XTdeu*
 
 abstract: QQ:2814148840
+
                WeChat:XinTUedu
+
                Email:XintuEDU@163.com
 
 # Summary. An optional shortened abstract.
