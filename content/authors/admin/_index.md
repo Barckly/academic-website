@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 昕途——红色历史文化传承公益项目
+title: 昕途——红色历史文化传承研学项目
 
 # Is this the primary user of the site?
 superuser: true
